@@ -1,0 +1,6 @@
+hash: 8171865a3440be57b5829288939fd0fd9b41abb065987709b285d93593c679bf
+updated: 2016-06-28T00:26:08.190504216-04:00
+imports:
+- name: github.com/mailgun/mailgun-go
+  version: a98c4eecda3e6a36bd804ae80e9a4f8edaa6cd99
+devImports: []
